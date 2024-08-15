@@ -153,7 +153,7 @@ h2 {
 }
 
 .nav-logo {
-  background-image: url(/Assets/1.svg);
+  background-image: url(1.svg);
   width: 179px;
   height: 42px;
 }
@@ -174,7 +174,7 @@ h2 {
 }
 
 .hero-image {
-  background-image: url(/Assets/2.png);
+  background-image: url(2.png);
   width: 424px;
   height: 424px;
 }
@@ -228,7 +228,7 @@ h2 {
 /* i am Duolingo information section first */
 
 .information-images-1 {
-  background-image: url(/Assets/3.svg);
+  background-image: url(3.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -236,7 +236,7 @@ h2 {
 }
 
 .information-images-2 {
-  background-image: url(/Assets/4.svg);
+  background-image: url(4.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -245,7 +245,7 @@ h2 {
 }
 
 .information-images-3 {
-  background-image: url(/Assets/5.svg);
+  background-image: url(5.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -254,7 +254,7 @@ h2 {
 }
 
 .information-images-4 {
-  background-image: url(/Assets/6.svg);
+  background-image: url(6.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -269,7 +269,7 @@ h2 {
 /* i am learn anytime anywhere section */
 
 .learning-section-background-image {
-  background-image: url(/Assets/asset\ 44.svg);
+  background-image: url(44.svg);
   background-position: top;
   background-size: cover;
   width: 100%;
@@ -299,7 +299,7 @@ h2 {
 }
 
 .learning-section-button {
-  background-image: url(/Assets/asset\ 44.svg);
+  background-image: url(44.svg);
   justify-content: center;
   gap: 24px;
 }
@@ -319,7 +319,7 @@ h2 {
 }
 
 .appel-store-image {
-  background-image: url(/Assets/7.5.svg);
+  background-image: url(7.5.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 34px;
@@ -327,7 +327,7 @@ h2 {
 }
 
 .play-store-image {
-  background-image: url(/Assets/7.svg);
+  background-image: url(7.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 34px;
@@ -361,7 +361,7 @@ h2 {
 }
 
 .super-duolingo-image {
-  background-image: url(/Assets/8.svg);
+  background-image: url(8.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -375,7 +375,7 @@ h2 {
 }
 
 .super-duolingo-text-image {
-  background-image: url(/Assets/9.svg);
+  background-image: url(9.svg);
   width: 418px;
   height: 60.69px;
   background-repeat: no-repeat;
@@ -419,7 +419,7 @@ h2 {
 }
 
 .fetcher-section-image-1 {
-  background-image: url(/Assets/10.svg);
+  background-image: url(10.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -428,7 +428,7 @@ h2 {
 }
 
 .fetcher-section-image-2 {
-  background-image: url(/Assets/11.svg);
+  background-image: url(11.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -437,7 +437,7 @@ h2 {
 }
 
 .fetcher-section-image-3 {
-  background-image: url(/Assets/12.svg);
+  background-image: url(12.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -446,7 +446,7 @@ h2 {
 }
 
 .fetcher-section-image-4 {
-  background-image: url(/Assets/13.svg);
+  background-image: url(13.svg);
   width: 530px;
   height: 530px;
   background-repeat: no-repeat;
@@ -578,7 +578,7 @@ h2 {
 }
 
 .main-footer-logo {
-  background-image: url(/Assets/last\ img.svg);
+  background-image: url(img.svg);
   width: 86px;
   height: 86px;
 }
